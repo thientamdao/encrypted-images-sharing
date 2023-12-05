@@ -42,3 +42,39 @@ To run this project locally, follow these steps:
 5. Run development server:
    - Navigate to the `server` directory and run `npm start`.
    - Navigate to the `client` directory and run `npm start`.
+
+## Demo
+
+### Sign up
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/d8f740de-62e0-4f1f-89f8-ae2ca8cbf5d4
+
+### Login
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/af9f0931-9860-4aa8-989c-ee420cca4c06
+
+### Upload images
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/dafa9a78-9009-4bd9-9f4c-6f5a34b8b11e
+
+### Show images
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/43e6240b-5d0f-4665-9da4-baaba92d14f6
+
+### Share images
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/0b27351f-d023-45ad-be55-781946518a21
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/daf1c80e-9361-4b1c-bcba-47703c89fa67
+
+### Download images
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/aaa8cbcb-2b1f-448c-94c0-25e0816badef
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/8e0bd056-a3c7-4831-a4c8-6f232ce37216
+
+### Delete images
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/ee87f692-ceb9-4778-bb62-d515a6dd9ebe
+
+https://github.com/thientamdao/encrypted-images-sharing/assets/74353835/7894e0a1-9e22-4039-9dbf-823b3aa66fba
